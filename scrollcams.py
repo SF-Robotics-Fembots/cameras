@@ -1,4 +1,4 @@
-# import the require packages.
+# import the required packages.
 import cv2
 from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, \
     QLabel, QGridLayout, QScrollArea, QSizePolicy, QWidget, QPushButton
